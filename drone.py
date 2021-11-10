@@ -1,5 +1,5 @@
 import time
-import keyboard 
+import keyboard # pip install keyboard
 
 class Drone:    
     
